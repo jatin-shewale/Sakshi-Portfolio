@@ -16,9 +16,9 @@ export const personalInfo = {
 
 // Social Links
 export const socialLinks = {
-    linkedin: "https://linkedin.com/in/sakshi-bagul",
-    github: "https://github.com/sakshi-bagul",
-    leetcode: "https://leetcode.com/sakshi-bagul",
+    linkedin: "https://www.linkedin.com/in/sakshi-bagul-8463b1277/",
+    github: "https://github.com/Sakshibagul7",
+    leetcode: "https://leetcode.com/u/Sakshibagul/",
 };
 
 // Skills
